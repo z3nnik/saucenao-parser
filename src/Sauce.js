@@ -4,7 +4,9 @@ const { SauceSearch } = require('./SauceSearch');
 
 class Sauce {
     constructor(options) {
-        this.options = options;
+        this.options = Object.assign({}, {
+            output_type: 2
+        }, options);
         
         this._utils = new Utils();
 
