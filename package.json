@@ -4,17 +4,18 @@
   "description": "Simplified SauceNAO parser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "keywords": [
     "saucenao",
     "sauce",
     "saucenao-parser"
   ],
+  "repository": "https://github.com/MiniK1337/saucenao-parser",
   "author": "MiniK1337",
   "license": "ISC",
-  "devDependencies": {
-    "file-type": "^14.1.3",
+  "dependencies": {
+    "file-type": "^14.1.4",
     "form-data": "^3.0.0",
     "node-fetch": "^2.6.0"
   }

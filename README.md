@@ -161,10 +161,6 @@ sauce.setOptions({
 })
 
 console.log(bitmask);
-
-/*
-> 96
-*/
 ```
 
 
