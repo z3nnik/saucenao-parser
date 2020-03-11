@@ -160,7 +160,11 @@ sauce.setOptions({
     // dbmaski: bitmask 
 })
 
+<<<<<<< HEAD
 console.log(bitmask);
+=======
+console.log(bitmask); // 96
+>>>>>>> d8f07eb91107879e34e0092fc1280a899a48f1e6
 ```
 
 
