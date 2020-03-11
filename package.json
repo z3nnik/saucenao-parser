@@ -1,6 +1,6 @@
 {
   "name": "saucenao-parser",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simplified SauceNAO parser",
   "main": "index.js",
   "scripts": {
