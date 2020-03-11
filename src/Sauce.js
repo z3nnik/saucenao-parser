@@ -19,7 +19,7 @@ class Sauce {
     }
 
     generateDBMask(indexes) {
-        return indexes.reduce((acc, index) => acc + (1 << Number(index)), 0).toString();
+        return indexes.reduce((acc, index) => acc + (1 << Number(index)), 0);
     }
 
     setOptions(options) {
