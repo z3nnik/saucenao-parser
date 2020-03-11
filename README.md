@@ -160,11 +160,7 @@ sauce.setOptions({
     // dbmaski: bitmask 
 })
 
-console.log(bitmask);
-
-/*
-> 96
-*/
+console.log(bitmask); // 96
 ```
 
 
